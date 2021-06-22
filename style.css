@@ -17,6 +17,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: 20px;
+    user-select: none;
 }
 .title {
     font-size: 25px;
